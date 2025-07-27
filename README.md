@@ -10,14 +10,14 @@ The purpose of the project is to try out Claude code with subagents.
 
 ## Claude Subagents
 Subagents are mostly taken from https://github.com/iannuttall/claude-agents/ and https://github.com/wshobson/agents - Thanks!
-code-refactorer: Code refactoring assistance
-content-writer: Content writing assistance
-frontend-designer: Frontend design assistance
-prd-writer: Product requirement document writing
-project-task-planner: Project planning and task breakdown
-security-auditor: Security audit assistance
-vibe-coding-coach: Coding guidance and coaching
-requirement-analyst: Requirement analysis
+- code-refactorer: Code refactoring assistance
+- content-writer: Content writing assistance
+- frontend-designer: Frontend design assistance
+- prd-writer: Product requirement document writing
+- project-task-planner: Project planning and task breakdown
+- security-auditor: Security audit assistance
+- vibe-coding-coach: Coding guidance and coaching
+- requirement-analyst: Requirement analysis
 
 ## Current Implementation
 
